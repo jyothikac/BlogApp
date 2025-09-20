@@ -1,1 +1,2 @@
-HI, deploying django project to github repo
+# BlogApp
+This is Django-based Blog application
